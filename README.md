@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SyedAunZaidi26
+- 👋 Hi, I’m aun
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 Im currently making a flutter mobile app
 
 
 testing 123
